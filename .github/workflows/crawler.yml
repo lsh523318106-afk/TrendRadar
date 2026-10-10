@@ -1,7 +1,9 @@
 name: Hot News Crawler
 
 on:
-  # 不自动定时采集，仅在 GitHub Actions 页面手动运行。
+  schedule:
+    # GitHub Actions 使用 UTC：北京时间每天 08:00 和 20:00 各运行一次。
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
 
 # 添加权限设置
