@@ -1745,6 +1745,7 @@ def generate_html_report(
         id_to_name: Optional[Dict] = None,
         mode: str = "daily",
         is_daily_summary: bool = False,
+        narrative_materials: Optional[Dict] = None,
 ) -> str:
     """生成HTML报告"""
     if is_daily_summary:
@@ -1762,7 +1763,7 @@ def generate_html_report(
     report_data = prepare_report_data(stats, failed_ids, new_titles, id_to_name, mode)
 
     html_content = render_html_content(
-        report_data, total_titles, is_daily_summary, mode
+        report_data, total_titles, is_daily_summary, mode, narrative_materials
     )
 
     with open(file_path, "w", encoding="utf-8") as f:
@@ -1781,6 +1782,7 @@ def render_html_content(
         total_titles: int,
         is_daily_summary: bool = False,
         mode: str = "daily",
+        narrative_materials: Optional[Dict] = None,
 ) -> str:
     """渲染HTML内容"""
     html = """
@@ -1849,6 +1851,88 @@ def render_html_content(
 
             .content {
                 padding: 24px;
+            }
+
+            .narrative-section {
+                margin-bottom: 40px;
+                padding-bottom: 32px;
+                border-bottom: 2px solid #f0f0f0;
+            }
+
+            .narrative-title {
+                font-size: 20px;
+                font-weight: 700;
+                margin: 0 0 8px 0;
+                color: #111827;
+            }
+
+            .narrative-summary {
+                color: #6b7280;
+                font-size: 13px;
+                margin-bottom: 18px;
+            }
+
+            .narrative-note {
+                background: #fffbeb;
+                color: #92400e;
+                border: 1px solid #fde68a;
+                border-radius: 8px;
+                padding: 10px 12px;
+                font-size: 12px;
+                margin-bottom: 20px;
+            }
+
+            .candidate-tier {
+                margin-top: 22px;
+            }
+
+            .candidate-tier-title {
+                font-size: 16px;
+                font-weight: 700;
+                margin-bottom: 10px;
+            }
+
+            .candidate-tier-title.worth { color: #047857; }
+            .candidate-tier-title.reserve { color: #b45309; }
+
+            .candidate-item {
+                border: 1px solid #e5e7eb;
+                border-radius: 10px;
+                padding: 14px;
+                margin-bottom: 12px;
+                background: #fff;
+            }
+
+            .candidate-item.worth { border-left: 4px solid #10b981; }
+            .candidate-item.reserve { border-left: 4px solid #f59e0b; }
+
+            .candidate-title {
+                font-size: 15px;
+                font-weight: 600;
+                line-height: 1.45;
+                margin-bottom: 8px;
+            }
+
+            .candidate-meta {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 6px;
+                margin-bottom: 8px;
+            }
+
+            .candidate-badge {
+                display: inline-block;
+                padding: 2px 7px;
+                border-radius: 999px;
+                background: #f3f4f6;
+                color: #4b5563;
+                font-size: 11px;
+            }
+
+            .candidate-reasons {
+                color: #6b7280;
+                font-size: 12px;
+                line-height: 1.55;
             }
 
             .word-group {
@@ -2197,6 +2281,59 @@ def render_html_content(
         html += """
                     </ul>
                 </div>"""
+
+    # 优先展示为纪录片选题筛选出的叙事素材候选。
+    if narrative_materials and narrative_materials.get("enabled"):
+        summary = narrative_materials.get("summary", {})
+        worth_count = int(summary.get("worth_doing", 0))
+        reserve_count = int(summary.get("reserve", 0))
+        skipped_count = int(summary.get("not_recommended", 0))
+        html += f"""
+                <section class="narrative-section">
+                    <h2 class="narrative-title">适合你的选题素材</h2>
+                    <div class="narrative-summary">值得做 {worth_count} 条 · 备选 {reserve_count} 条 · 暂不建议 {skipped_count} 条</div>
+                    <div class="narrative-note">当前仅根据标题、来源、排名和出现次数初筛。抖音链接通常是热榜话题页，正式创作前请先找到并核对原始视频。</div>"""
+
+        tier_settings = (
+            ("worth_doing", "值得做", "worth"),
+            ("reserve", "可以备选", "reserve"),
+        )
+        for tier_key, tier_label, tier_class in tier_settings:
+            candidates = narrative_materials.get(tier_key, [])
+            if not candidates:
+                continue
+            html += f"""
+                    <div class="candidate-tier">
+                        <div class="candidate-tier-title {tier_class}">{tier_label} · {len(candidates)} 条</div>"""
+            for item in candidates:
+                title = html_escape(item.get("title", "未命名素材"))
+                url = html_escape(item.get("url", ""))
+                source = html_escape(item.get("source", "未知来源"))
+                score = item.get("score", 0)
+                best_rank = item.get("evidence", {}).get("best_rank")
+                rank_text = f"榜单第 {best_rank} 名" if best_rank else "暂无排名"
+                dimensions = "、".join(item.get("matched_dimensions", [])) or "高热度待判断"
+                reasons = "；".join(item.get("reasons", [])[:3])
+                title_html = (
+                    f'<a href="{url}" target="_blank" class="news-link">{title}</a>'
+                    if url else title
+                )
+                html += f"""
+                        <article class="candidate-item {tier_class}">
+                            <div class="candidate-title">{title_html}</div>
+                            <div class="candidate-meta">
+                                <span class="candidate-badge">{source}</span>
+                                <span class="candidate-badge">{html_escape(rank_text)}</span>
+                                <span class="candidate-badge">评分 {score}</span>
+                                <span class="candidate-badge">{html_escape(dimensions)}</span>
+                            </div>
+                            <div class="candidate-reasons">{html_escape(reasons)}</div>
+                        </article>"""
+            html += """
+                    </div>"""
+
+        html += """
+                </section>"""
 
     # 处理主要统计数据
     if report_data["stats"]:
@@ -3824,6 +3961,7 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         id_to_name=id_to_name,
         mode="daily",
         is_daily_summary=True,
+        narrative_materials=api_data.get("narrative_materials"),
     )
     print(f"为API数据生成了HTML报告: {api_html_report_path}")
 
