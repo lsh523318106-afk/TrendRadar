@@ -1,0 +1,87 @@
+# “有讲法的素材”标题初筛规则。
+#
+# 这份规则只分析热榜标题、来源、排名和重复出现次数，不会假装已经看过视频。
+# 最终选题仍需打开原始视频，确认人物、过程、冲突、评论区和版权风险。
+
+enabled: true
+
+thresholds:
+  worth_doing: 8
+  reserve: 5
+
+limits:
+  worth_doing: 20
+  reserve: 30
+  not_recommended: 15
+
+# 抖音最接近目标素材；B站、微博、贴吧和知乎用于补充线索。
+source_boosts:
+  douyin: 3
+  bilibili-hot-search: 2
+  weibo: 1
+  tieba: 1
+  zhihu: 1
+
+# 其他新闻源即使分数很高，也只作为“可备选线索”，不直接判为值得做。
+primary_candidate_sources: [douyin, bilibili-hot-search, weibo, tieba]
+
+rank_boosts:
+  top_5: 2
+  top_15: 1
+
+# 一个标题命中多个维度时，会额外获得“叙事密度”加分。
+signals:
+  - name: 抽象整活
+    weight: 3
+    keywords: [整活, 抽象, 爆改, 魔改, 自创, 做成, 玩出, 谁研究的, 新玩法, 打开方式, 大赏, 漂亮饭]
+  - name: 离谱实验与挑战
+    weight: 3
+    keywords: [离谱, 奇葩, 实验, 挑战, 亲测, 测试, 测评, 体验, 沉浸式, 改造, 自制, 尝试]
+  - name: 反差与反常识
+    weight: 3
+    keywords: [反差, 反常识, 没想到, 万万没想到, 居然, 竟然, 原来, 却, 只有, 竟是, 真实的]
+  - name: 奇葩现场与意外过程
+    weight: 3
+    keywords: [现场, 闯入, 跑进, 冲进, 误入, 被困, 失控, 翻车, 偶遇, 目击, 上演, 突发, 跑到]
+  - name: 具体人物与小人物
+    weight: 2
+    keywords: [大爷, 大妈, 老人, 奶奶, 爷爷, 小孩, 男孩, 女孩, 学生, 游客, 外卖员, 快递员, 司机, 保安, 摊主, 店主, 村民, 打工人, 新人]
+  - name: 家庭关系与人情
+    weight: 2
+    keywords: [爸爸, 父亲, 妈妈, 母亲, 父母, 夫妻, 兄妹, 姐弟, 家人, 一家, 家庭, 孩子, 女儿, 儿子, 婆婆, 丈夫, 妻子]
+  - name: 冲突与站队空间
+    weight: 3
+    keywords: [争议, 冲突, 吵架, 争吵, 对峙, 维权, 索赔, 被拒, 劝阻, 质疑, 道歉, 回应, 通报, 被拘, 处罚, 反转, 和解]
+  - name: 小事见人性
+    weight: 3
+    keywords: [暖心, 善意, 帮助, 救下, 救助, 陪伴, 流浪, 收留, 归还, 守护, 哭了, 泪目, 尊严]
+  - name: 具象画面与细节
+    weight: 2
+    keywords: [画面, 镜头, 视频, 拍到, 监控, 全程, 一幕, 瞬间, 近距离, 实拍, 具象化]
+  - name: 极端规模与空间反差
+    weight: 3
+    keywords: [涌入, 挤进, 小城, 万人, 爆满, 空城, 一夜之间, 一天来了]
+  - name: 消费与设施反差
+    weight: 3
+    keywords: [简陋, 破旧, 天价, 最贵, 最便宜, 收费离谱, 货不对板]
+  - name: 视觉脑洞
+    weight: 3
+    keywords: [AI给, 用AI, AI版, AI演, 复原, 荡秋千, 掏耳朵]
+
+# 这些词不直接删除素材，只降低纯新闻、宣传稿或影视宣发的优先级。
+penalties:
+  - name: 纯资讯或公文表达
+    weight: 2
+    keywords: [发布会, 正式发布, 数据显示, 同比增长, 指数上涨, 指数下跌, 路线图, 工作会议, 政策解读, 最新表态]
+  - name: 影视综艺宣发
+    weight: 2
+    keywords: [定档, 开播, 预告, 票房, 演唱会, 新歌, 电视剧, 电影海报, 路透]
+  - name: 单纯赛果
+    weight: 2
+    keywords: [夺冠, 晋级, 战胜, 大胜, 积分榜, 决赛]
+  - name: 重大伤亡或高风险事件
+    weight: 4
+    keywords: [ICU, 重症, 死亡, 遇难, 枪手, 爆炸, 空袭, 虐待, 自杀, 性侵]
+  - name: 国际政治与军事资讯
+    weight: 3
+    keywords: [总统, 总理, 军方, 战争, 停火协议, 国防部, 以色列, 俄罗斯, 特朗普]
