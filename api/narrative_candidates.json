@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T00:22:53.245143+08:00",
+  "generated_at": "2026-10-11T00:39:24.723748+08:00",
   "enabled": true,
   "assessment_level": "headline_only",
   "limitations": [
@@ -16,8 +16,8 @@
   "summary": {
     "total_scanned": 303,
     "worth_doing": 1,
-    "reserve": 35,
-    "not_recommended": 267
+    "reserve": 36,
+    "not_recommended": 266
   },
   "worth_doing": [
     {
@@ -221,6 +221,33 @@
       "also_seen_on": []
     },
     {
+      "title": "泰国警方回应大概率已被转至缅甸",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%A6%82%E7%8E%87%E5%B7%B2%E8%A2%AB%E8%BD%AC%E8%87%B3%E7%BC%85%E7%94%B8%23&t=31&band_rank=1&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：回应）",
+        "微博素材源 +1",
+        "榜单最高第 1 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
       "title": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？",
       "url": "https://www.zhihu.com/question/2092224091172201313",
       "source_id": "zhihu",
@@ -330,31 +357,6 @@
         "is_new": false
       },
       "link_type": "hot_topic_page",
-      "requires_original_video_review": true,
-      "also_seen_on": []
-    },
-    {
-      "title": "打一针让癌细胞生锈而死",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E4%B8%80%E9%92%88%E8%AE%A9%E7%99%8C%E7%BB%86%E8%83%9E%E7%94%9F%E9%94%88%E8%80%8C%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
-      "source_id": "weibo",
-      "source": "微博",
-      "score": 5,
-      "recommendation": "可备选",
-      "tier": "reserve",
-      "matched_dimensions": [],
-      "reasons": [
-        "微博素材源 +1",
-        "榜单最高第 1 名 +2",
-        "热度很高但标题信息不足，保留为人工复核候选"
-      ],
-      "penalties": [],
-      "originality_potential": "较低（标题信息不足）",
-      "evidence": {
-        "best_rank": 1,
-        "appearance_count": 1,
-        "is_new": false
-      },
-      "link_type": "source_page",
       "requires_original_video_review": true,
       "also_seen_on": []
     },
@@ -522,8 +524,8 @@
       "also_seen_on": []
     },
     {
-      "title": "郑钦文解释为何提醒观众",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E6%8F%90%E9%86%92%E8%A7%82%E4%BC%97%23&t=31&band_rank=2&Refer=top",
+      "title": "打一针让癌细胞生锈而死",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E4%B8%80%E9%92%88%E8%AE%A9%E7%99%8C%E7%BB%86%E8%83%9E%E7%94%9F%E9%94%88%E8%80%8C%E6%AD%BB%23&t=31&band_rank=2&Refer=top",
       "source_id": "weibo",
       "source": "微博",
       "score": 5,
@@ -653,6 +655,33 @@
       "also_seen_on": []
     },
     {
+      "title": "梅艳芳骨灰被盗",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E8%A2%AB%E7%9B%97%23&t=31&band_rank=4&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "微博素材源 +1",
+        "榜单最高第 4 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 4,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": [
+        "百度热搜"
+      ]
+    },
+    {
       "title": "管泽元Bin聊S赛新版本",
       "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83Bin%E8%81%8AS%E8%B5%9B%E6%96%B0%E7%89%88%E6%9C%AC",
       "source_id": "bilibili-hot-search",
@@ -668,33 +697,6 @@
       ],
       "penalties": [],
       "originality_potential": "较低（标题信息不足）",
-      "evidence": {
-        "best_rank": 4,
-        "appearance_count": 1,
-        "is_new": false
-      },
-      "link_type": "source_page",
-      "requires_original_video_review": true,
-      "also_seen_on": []
-    },
-    {
-      "title": "赴泰失联男子致电怀孕妻子转生活费",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%87%B4%E7%94%B5%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=4&Refer=top",
-      "source_id": "weibo",
-      "source": "微博",
-      "score": 5,
-      "recommendation": "可备选",
-      "tier": "reserve",
-      "matched_dimensions": [
-        "家庭关系与人情"
-      ],
-      "reasons": [
-        "家庭关系与人情 +2（命中：妻子）",
-        "微博素材源 +1",
-        "榜单最高第 4 名 +2"
-      ],
-      "penalties": [],
-      "originality_potential": "中等（仍需寻找独特切口）",
       "evidence": {
         "best_rank": 4,
         "appearance_count": 1,
@@ -756,8 +758,8 @@
       "also_seen_on": []
     },
     {
-      "title": "郑钦文创中网历史",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%88%9B%E4%B8%AD%E7%BD%91%E5%8E%86%E5%8F%B2%23&t=31&band_rank=5&Refer=top",
+      "title": "郑钦文解释为何提醒观众",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E6%8F%90%E9%86%92%E8%A7%82%E4%BC%97%23&t=31&band_rank=5&Refer=top",
       "source_id": "weibo",
       "source": "微博",
       "score": 5,
@@ -941,6 +943,33 @@
       "also_seen_on": []
     },
     {
+      "title": "赴泰失联男子致电怀孕妻子转生活费",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%87%B4%E7%94%B5%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=7&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "家庭关系与人情"
+      ],
+      "reasons": [
+        "家庭关系与人情 +2（命中：妻子）",
+        "微博素材源 +1",
+        "榜单最高第 7 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 7,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
       "title": "把画架搬进草地画一场秋天",
       "url": "https://www.douyin.com/hot/2689503",
       "source_id": "douyin",
@@ -987,33 +1016,6 @@
         "is_new": false
       },
       "link_type": "hot_topic_page",
-      "requires_original_video_review": true,
-      "also_seen_on": []
-    },
-    {
-      "title": "林依晨说想和邓为演夫妻",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A8%E8%AF%B4%E6%83%B3%E5%92%8C%E9%82%93%E4%B8%BA%E6%BC%94%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=9&Refer=top",
-      "source_id": "weibo",
-      "source": "微博",
-      "score": 4,
-      "recommendation": "暂不建议",
-      "tier": "not_recommended",
-      "matched_dimensions": [
-        "家庭关系与人情"
-      ],
-      "reasons": [
-        "家庭关系与人情 +2（命中：夫妻）",
-        "微博素材源 +1",
-        "榜单最高第 9 名 +1"
-      ],
-      "penalties": [],
-      "originality_potential": "中等（仍需寻找独特切口）",
-      "evidence": {
-        "best_rank": 9,
-        "appearance_count": 1,
-        "is_new": false
-      },
-      "link_type": "source_page",
       "requires_original_video_review": true,
       "also_seen_on": []
     },
@@ -1197,6 +1199,33 @@
       "also_seen_on": []
     },
     {
+      "title": "黄磊二女儿和黄磊一模一样",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%92%8C%E9%BB%84%E7%A3%8A%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=13&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "家庭关系与人情"
+      ],
+      "reasons": [
+        "家庭关系与人情 +2（命中：女儿）",
+        "微博素材源 +1",
+        "榜单最高第 13 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 13,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
       "title": "晒出你的公路旅行大片",
       "url": "https://www.douyin.com/hot/2689361",
       "source_id": "douyin",
@@ -1214,31 +1243,6 @@
       "originality_potential": "较低（标题信息不足）",
       "evidence": {
         "best_rank": 14,
-        "appearance_count": 1,
-        "is_new": false
-      },
-      "link_type": "hot_topic_page",
-      "requires_original_video_review": true,
-      "also_seen_on": []
-    },
-    {
-      "title": "桂花季出门全员保持深呼吸",
-      "url": "https://www.douyin.com/hot/2689414",
-      "source_id": "douyin",
-      "source": "抖音",
-      "score": 4,
-      "recommendation": "暂不建议",
-      "tier": "not_recommended",
-      "matched_dimensions": [],
-      "reasons": [
-        "抖音素材源 +3",
-        "榜单最高第 15 名 +1",
-        "热度和标题信息都不足，暂不进入候选"
-      ],
-      "penalties": [],
-      "originality_potential": "较低（标题信息不足）",
-      "evidence": {
-        "best_rank": 15,
         "appearance_count": 1,
         "is_new": false
       },
