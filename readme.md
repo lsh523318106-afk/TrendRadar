@@ -640,7 +640,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 4. **自动运行**:
 
-   - 项目已包含`.github/workflows/crawler.yml`配置文件，默认每小时运行一次
+   - 项目已包含`.github/workflows/crawler.yml`配置文件，默认仅手动运行，不会自动定时采集
    - 你也可以在 GitHub 仓库的 Actions 页面手动触发运行
 
 5. **查看结果**:
