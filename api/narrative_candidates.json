@@ -1,0 +1,1250 @@
+{
+  "generated_at": "2026-10-11T00:22:53.245143+08:00",
+  "enabled": true,
+  "assessment_level": "headline_only",
+  "limitations": [
+    "仅根据热榜标题、来源、排名和出现次数初筛，未读取视频画面、口播或评论区。",
+    "抖音链接通常是热榜话题页，不一定是最早发布的原始视频。",
+    "发布前必须确认原视频、事实、同质化程度、肖像权和版权风险。"
+  ],
+  "next_review": [
+    "找到最早或最完整的原始视频",
+    "确认具体人物、过程、冲突和反转是否真实存在",
+    "查看评论区是否形成情绪共鸣或站队",
+    "判断是否已有大量同角度解说，并寻找自己的叙事切口"
+  ],
+  "summary": {
+    "total_scanned": 303,
+    "worth_doing": 1,
+    "reserve": 35,
+    "not_recommended": 267
+  },
+  "worth_doing": [
+    {
+      "title": "全抖音都在追Vibe知识大赏",
+      "url": "https://www.douyin.com/hot/2688504",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 8,
+      "recommendation": "值得做",
+      "tier": "worth_doing",
+      "matched_dimensions": [
+        "抽象整活"
+      ],
+      "reasons": [
+        "抽象整活 +3（命中：大赏）",
+        "抖音素材源 +3",
+        "榜单最高第 5 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 5,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    }
+  ],
+  "reserve": [
+    {
+      "title": "视频丨海口9岁自闭症男童电梯内被男子踹飞，涉事男子被拘10天",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34225928",
+      "source_id": "thepaper",
+      "source": "澎湃新闻",
+      "score": 10,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间",
+        "具象画面与细节"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：被拘）",
+        "具象画面与细节 +2（命中：视频）",
+        "多个叙事维度同时成立 +2",
+        "含可核验的数字细节 +1",
+        "榜单最高第 5 名 +2",
+        "该来源更适合作为线索，需先找到可核验的原始视频"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 5,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
+      "url": "https://www.zhihu.com/question/2092196902880203160",
+      "source_id": "zhihu",
+      "source": "知乎",
+      "score": 9,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "具体人物与小人物",
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "具体人物与小人物 +2（命中：学生）",
+        "冲突与站队空间 +3（命中：处罚）",
+        "多个叙事维度同时成立 +2",
+        "知乎素材源 +1",
+        "榜单最高第 7 名 +1",
+        "该来源更适合作为线索，需先找到可核验的原始视频"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 7,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "美军拟直播枪决罪犯有哪些争议",
+      "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E6%8B%9F%E7%9B%B4%E6%92%AD%E6%9E%AA%E5%86%B3%E7%BD%AA%E7%8A%AF%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%89%E8%AE%AE",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 7,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：争议）",
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 2 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "杜兰特徐静雨签和解协议",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%BE%90%E9%9D%99%E9%9B%A8%E7%AD%BE%E5%92%8C%E8%A7%A3%E5%8D%8F%E8%AE%AE",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 7,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：和解）",
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 3 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 3,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "离谱,日本拉面店一锅汤熬14年",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366919&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E4%B8%80%E9%94%85%E6%B1%A4%E7%86%AC14%E5%B9%B4",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 7,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "离谱实验与挑战"
+      ],
+      "reasons": [
+        "离谱实验与挑战 +3（命中：离谱）",
+        "含可核验的数字细节 +1",
+        "贴吧素材源 +1",
+        "榜单最高第 4 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 4,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "北京警方通报“王皓被围堵辱骂”：3人被行拘，17人被批评教育",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34223969",
+      "source_id": "thepaper",
+      "source": "澎湃新闻",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：通报）",
+        "含可核验的数字细节 +1",
+        "榜单最高第 1 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？",
+      "url": "https://www.zhihu.com/question/2092224091172201313",
+      "source_id": "zhihu",
+      "source": "知乎",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "反差与反常识",
+        "家庭关系与人情"
+      ],
+      "reasons": [
+        "反差与反常识 +3（命中：却）",
+        "家庭关系与人情 +2（命中：母亲、儿子）",
+        "多个叙事维度同时成立 +2",
+        "知乎素材源 +1",
+        "榜单最高第 2 名 +2",
+        "重大伤亡或高风险事件 -4（命中：ICU）"
+      ],
+      "penalties": [
+        "重大伤亡或高风险事件"
+      ],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "国庆特种兵结算画面",
+      "url": "https://www.douyin.com/hot/2687782",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "具象画面与细节"
+      ],
+      "reasons": [
+        "具象画面与细节 +2（命中：画面）",
+        "抖音素材源 +3",
+        "榜单最高第 6 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 6,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "我拍到的秋日色彩",
+      "url": "https://www.douyin.com/hot/2689467",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "具象画面与细节"
+      ],
+      "reasons": [
+        "具象画面与细节 +2（命中：拍到）",
+        "抖音素材源 +3",
+        "榜单最高第 10 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 10,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "徐静雨杜兰特澳门会面和解",
+      "url": "https://www.douyin.com/hot/2689488",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 6,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：和解）",
+        "抖音素材源 +3"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 18,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "打一针让癌细胞生锈而死",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E4%B8%80%E9%92%88%E8%AE%A9%E7%99%8C%E7%BB%86%E8%83%9E%E7%94%9F%E9%94%88%E8%80%8C%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "微博素材源 +1",
+        "榜单最高第 1 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "郑钦文首进中网女单决赛",
+      "url": "https://www.douyin.com/hot/2689461",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 1 名 +2",
+        "单纯赛果 -2（命中：决赛）",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [
+        "单纯赛果"
+      ],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": [
+        "bilibili 热搜"
+      ]
+    },
+    {
+      "title": "重庆狼队战胜济南RW侠 KPL",
+      "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 1 名 +2",
+        "单纯赛果 -2（命中：战胜）",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [
+        "单纯赛果"
+      ],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "鲸天魔盗团!黑客靠AI入侵韩国银行",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366789&amp;topic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "贴吧素材源 +1",
+        "榜单最高第 1 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "上海申花7:1大胜云南玉昆",
+      "url": "https://www.douyin.com/hot/2689527",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "含可核验的数字细节 +1",
+        "抖音素材源 +3",
+        "榜单最高第 2 名 +2",
+        "单纯赛果 -2（命中：大胜）",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [
+        "单纯赛果"
+      ],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "写电竞文缺黑称,吧友抗吧取经",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366851&amp;topic_name=%E5%86%99%E7%94%B5%E7%AB%9E%E6%96%87%E7%BC%BA%E9%BB%91%E7%A7%B0%2C%E5%90%A7%E5%8F%8B%E6%8A%97%E5%90%A7%E5%8F%96%E7%BB%8F",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "贴吧素材源 +1",
+        "榜单最高第 2 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "快把家里的盐换了 可以帮助控血压",
+      "url": "https://www.baidu.com/s?wd=%E5%BF%AB%E6%8A%8A%E5%AE%B6%E9%87%8C%E7%9A%84%E7%9B%90%E6%8D%A2%E4%BA%86+%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E6%8E%A7%E8%A1%80%E5%8E%8B",
+      "source_id": "baidu",
+      "source": "百度热搜",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "小事见人性"
+      ],
+      "reasons": [
+        "小事见人性 +3（命中：帮助）",
+        "榜单最高第 2 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "郑钦文解释为何提醒观众",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E6%8F%90%E9%86%92%E8%A7%82%E4%BC%97%23&t=31&band_rank=2&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "微博素材源 +1",
+        "榜单最高第 2 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 2,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "以青春之我建强农之业",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E9%9D%92%E6%98%A5%E4%B9%8B%E6%88%91%E5%BB%BA%E5%BC%BA%E5%86%9C%E4%B9%8B%E4%B8%9A%23&t=31&band_rank=3&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "微博素材源 +1",
+        "榜单最高第 3 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 3,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "创历史!郑钦文首进中网决赛",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366918&amp;topic_name=%E5%88%9B%E5%8E%86%E5%8F%B2%21%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E8%BF%9B%E4%B8%AD%E7%BD%91%E5%86%B3%E8%B5%9B",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "贴吧素材源 +1",
+        "榜单最高第 3 名 +2",
+        "单纯赛果 -2（命中：决赛）",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [
+        "单纯赛果"
+      ],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 3,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "解码绿色能源背后的大国重器",
+      "url": "https://www.douyin.com/hot/2689535",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 3 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 3,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "国防部批日本“新型军国主义”",
+      "url": "https://www.douyin.com/hot/2688935",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 4 名 +2",
+        "国际政治与军事资讯 -3（命中：国防部）",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [
+        "国际政治与军事资讯"
+      ],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 4,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "管泽元Bin聊S赛新版本",
+      "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83Bin%E8%81%8AS%E8%B5%9B%E6%96%B0%E7%89%88%E6%9C%AC",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 4 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 4,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "赴泰失联男子致电怀孕妻子转生活费",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%87%B4%E7%94%B5%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=4&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "家庭关系与人情"
+      ],
+      "reasons": [
+        "家庭关系与人情 +2（命中：妻子）",
+        "微博素材源 +1",
+        "榜单最高第 4 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 4,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "粉丝围堵辱骂王皓,3人被行拘",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366864&amp;topic_name=%E7%B2%89%E4%B8%9D%E5%9B%B4%E5%A0%B5%E8%BE%B1%E9%AA%82%E7%8E%8B%E7%9A%93%2C3%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "含可核验的数字细节 +1",
+        "贴吧素材源 +1",
+        "榜单最高第 5 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 5,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "美国公布了六代机哪些新消息",
+      "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E4%BA%86%E5%85%AD%E4%BB%A3%E6%9C%BA%E5%93%AA%E4%BA%9B%E6%96%B0%E6%B6%88%E6%81%AF",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 5 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 5,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "郑钦文创中网历史",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%88%9B%E4%B8%AD%E7%BD%91%E5%8E%86%E5%8F%B2%23&t=31&band_rank=5&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [],
+      "reasons": [
+        "微博素材源 +1",
+        "榜单最高第 5 名 +2",
+        "热度很高但标题信息不足，保留为人工复核候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 5,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "婚礼现偶像立牌,新娘秒泪目",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366841&amp;topic_name=%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%81%B6%E5%83%8F%E7%AB%8B%E7%89%8C%2C%E6%96%B0%E5%A8%98%E7%A7%92%E6%B3%AA%E7%9B%AE",
+      "source_id": "tieba",
+      "source": "贴吧",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "小事见人性"
+      ],
+      "reasons": [
+        "小事见人性 +3（命中：泪目）",
+        "贴吧素材源 +1",
+        "榜单最高第 8 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 8,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "前三季度全国城镇新增就业1052万人",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34223922",
+      "source_id": "thepaper",
+      "source": "澎湃新闻",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "极端规模与空间反差"
+      ],
+      "reasons": [
+        "极端规模与空间反差 +3（命中：万人）",
+        "含可核验的数字细节 +1",
+        "榜单最高第 9 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 9,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "国庆景区热度前十被小城包揽，这会成为一种旅游趋势吗？你会选择大城市出游还是小城呢？",
+      "url": "https://www.zhihu.com/question/2090156101194839851",
+      "source_id": "zhihu",
+      "source": "知乎",
+      "score": 5,
+      "recommendation": "可备选",
+      "tier": "reserve",
+      "matched_dimensions": [
+        "极端规模与空间反差"
+      ],
+      "reasons": [
+        "极端规模与空间反差 +3（命中：小城）",
+        "知乎素材源 +1",
+        "榜单最高第 9 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 9,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    }
+  ],
+  "not_recommended": [
+    {
+      "title": "日媒曝黑客黑掉软银旗下云平台后留下 225 封勒索信，结果运维找 7 小时没发现勒索信只是一味重启，如何看待？",
+      "url": "https://www.zhihu.com/question/2092283931764552084",
+      "source_id": "zhihu",
+      "source": "知乎",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "含可核验的数字细节 +1",
+        "知乎素材源 +1",
+        "榜单最高第 1 名 +2",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 1,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "中外游客“双向奔赴”活力涌动",
+      "url": "https://www.toutiao.com/trending/7694983541897039402/",
+      "source_id": "toutiao",
+      "source": "今日头条",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "具体人物与小人物"
+      ],
+      "reasons": [
+        "具体人物与小人物 +2（命中：游客）",
+        "榜单最高第 3 名 +2"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 3,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "秋冬摆脱路人感叠穿思路",
+      "url": "https://www.douyin.com/hot/2687485",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 7 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 7,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "把画架搬进草地画一场秋天",
+      "url": "https://www.douyin.com/hot/2689503",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 8 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 8,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "在芒市玩的每一天都很明媚",
+      "url": "https://www.douyin.com/hot/2688639",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 9 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 9,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "林依晨说想和邓为演夫妻",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A8%E8%AF%B4%E6%83%B3%E5%92%8C%E9%82%93%E4%B8%BA%E6%BC%94%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=9&Refer=top",
+      "source_id": "weibo",
+      "source": "微博",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "家庭关系与人情"
+      ],
+      "reasons": [
+        "家庭关系与人情 +2（命中：夫妻）",
+        "微博素材源 +1",
+        "榜单最高第 9 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 9,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "凡人第195集剧情细节解析",
+      "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E7%AC%AC195%E9%9B%86%E5%89%A7%E6%83%85%E7%BB%86%E8%8A%82%E8%A7%A3%E6%9E%90",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "含可核验的数字细节 +1",
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 10 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 10,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "自闭症男童电梯被踹飞 当地妇联回应",
+      "url": "https://www.baidu.com/s?wd=%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E7%AB%A5%E7%94%B5%E6%A2%AF%E8%A2%AB%E8%B8%B9%E9%A3%9E+%E5%BD%93%E5%9C%B0%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94",
+      "source_id": "baidu",
+      "source": "百度热搜",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：回应）",
+        "榜单最高第 10 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 10,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "国庆后错峰出游太爽了",
+      "url": "https://www.douyin.com/hot/2689112",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 11 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 11,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "大兴安岭明年再见了",
+      "url": "https://www.douyin.com/hot/2688615",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 12 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 12,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "新闻蒸馏器｜万斯说不会看，议员称令人作呕，美国直播枪决计划争议何在？",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34223558",
+      "source_id": "thepaper",
+      "source": "澎湃新闻",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [
+        "冲突与站队空间"
+      ],
+      "reasons": [
+        "冲突与站队空间 +3（命中：争议）",
+        "榜单最高第 12 名 +1"
+      ],
+      "penalties": [],
+      "originality_potential": "中等（仍需寻找独特切口）",
+      "evidence": {
+        "best_rank": 12,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "北京人社局辟谣社保卡金卡",
+      "url": "https://www.douyin.com/hot/2689355",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 13 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 13,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "杜兰特中国赛砍15分",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E4%B8%AD%E5%9B%BD%E8%B5%9B%E7%A0%8D15%E5%88%86",
+      "source_id": "bilibili-hot-search",
+      "source": "bilibili 热搜",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "含可核验的数字细节 +1",
+        "bilibili 热搜素材源 +2",
+        "榜单最高第 13 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 13,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "source_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "晒出你的公路旅行大片",
+      "url": "https://www.douyin.com/hot/2689361",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 14 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 14,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    },
+    {
+      "title": "桂花季出门全员保持深呼吸",
+      "url": "https://www.douyin.com/hot/2689414",
+      "source_id": "douyin",
+      "source": "抖音",
+      "score": 4,
+      "recommendation": "暂不建议",
+      "tier": "not_recommended",
+      "matched_dimensions": [],
+      "reasons": [
+        "抖音素材源 +3",
+        "榜单最高第 15 名 +1",
+        "热度和标题信息都不足，暂不进入候选"
+      ],
+      "penalties": [],
+      "originality_potential": "较低（标题信息不足）",
+      "evidence": {
+        "best_rank": 15,
+        "appearance_count": 1,
+        "is_new": false
+      },
+      "link_type": "hot_topic_page",
+      "requires_original_video_review": true,
+      "also_seen_on": []
+    }
+  ]
+}
