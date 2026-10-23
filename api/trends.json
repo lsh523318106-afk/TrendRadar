@@ -1,105 +1,155 @@
 {
-  "generated_at": "2026-10-23T00:39:50.305565+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-23T11:26:11.572629+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "一家 父母 爸爸 妈妈 夫妻 孩子 女儿 儿子",
+      "keyword_group": "现场 闯入 跑进 冲进 误入 失控 翻车 偶遇",
       "match_count": 5,
       "titles": [
         {
-          "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗？",
-          "url": "https://www.zhihu.com/question/694420968",
-          "source": "知乎",
+          "title": "西藏地震现场：地面开裂 房屋倒塌",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%EF%BC%9A%E5%9C%B0%E9%9D%A2%E5%BC%80%E8%A3%82+%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C",
+          "source": "百度热搜",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
-          "url": "https://www.zhihu.com/question/2096553146264674983",
-          "source": "知乎",
+          "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308703",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "为啥孙策传位给其弟孙权，而不是儿子？",
-          "url": "https://www.zhihu.com/question/2094538424543982842",
-          "source": "知乎",
+          "title": "直击iPhone Duo开售现场",
+          "url": "https://www.toutiao.com/trending/7698776340010680339/",
+          "source": "今日头条",
           "ranks": [
-            15
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "张家齐和妈妈的关系触痛网友",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%A6%88%E5%A6%88%E7%9A%84%E5%85%B3%E7%B3%BB%E8%A7%A6%E7%97%9B%E7%BD%91%E5%8F%8B&t=31&band_rank=25&Refer=top",
+          "title": "战力崩叙事乱,边缘行者2翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367871&amp;topic_name=%E6%88%98%E5%8A%9B%E5%B4%A9%E5%8F%99%E4%BA%8B%E4%B9%B1%2C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "西藏那曲地震现场地面开裂",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E5%BC%80%E8%A3%82%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "孙俪邓超女儿小花跳舞总是撞上其他舞者",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8A%B1%E8%B7%B3%E8%88%9E%E6%80%BB%E6%98%AF%E6%92%9E%E4%B8%8A%E5%85%B6%E4%BB%96%E8%88%9E%E8%80%85%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
     {
-      "keyword_group": "离谱 奇葩 挑战 实验 亲测 沉浸式",
+      "keyword_group": "大爷 大妈 老人 小孩 男孩 女孩 外卖员 快递员 保安 摊主 游客",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "河北承德一拾荒老人被倾倒渣石砸死后，被瞒报近三年 ，事情为什么能被压这么久？问题出在哪些环节？",
+          "url": "https://www.zhihu.com/question/2095479322576532718",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "两游客误闯法国暴乱,淡定拖箱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367920&amp;topic_name=%E4%B8%A4%E6%B8%B8%E5%AE%A2%E8%AF%AF%E9%97%AF%E6%B3%95%E5%9B%BD%E6%9A%B4%E4%B9%B1%2C%E6%B7%A1%E5%AE%9A%E6%8B%96%E7%AE%B1",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "九旬老人在公共楼道睡了近一年",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%85%AC%E5%85%B1%E6%A5%BC%E9%81%93%E7%9D%A1%E4%BA%86%E8%BF%91%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "帅哥摊主凭颜值带火一条街",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%93%A5%E6%91%8A%E4%B8%BB%E5%87%AD%E9%A2%9C%E5%80%BC%E5%B8%A6%E7%81%AB%E4%B8%80%E6%9D%A1%E8%A1%97",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "一家 父母 爸爸 妈妈 夫妻 孩子 女儿 儿子",
       "match_count": 3,
       "titles": [
         {
-          "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
-          "url": "https://www.zhihu.com/question/2096228188099540232",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "LPL出征前的默契挑战",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "9岁孩子开门杀致路人死亡 司机获刑",
+          "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E5%AD%A9%E5%AD%90%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B4%E8%B7%AF%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "KDA神之八秒挑战",
-          "url": "https://www.douyin.com/hot/2707150",
-          "source": "抖音",
+          "title": "钟丽缇说40岁要孩子很难",
+          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E4%B8%BD%E7%BC%87%E8%AF%B440%E5%B2%81%E8%A6%81%E5%AD%A9%E5%AD%90%E5%BE%88%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "爸妈给儿子过十八岁生日礼看哭网友",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E8%BF%87%E5%8D%81%E5%85%AB%E5%B2%81%E7%94%9F%E6%97%A5%E7%A4%BC%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
@@ -108,37 +158,37 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "《offer 8》嘉宾称「专博期间不上临床」被质疑，福医大称其已完成 18 个月临床轮转，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2096280893752960397",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "大火逼近中国 日本道歉岂能只道一半",
           "url": "https://www.toutiao.com/trending/7698626535502364698/",
           "source": "今日头条",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "大火逼近中国 日本道歉岂能只道一半",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A",
-          "source": "百度热搜",
+          "title": "林舒晴道歉澄清",
+          "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E8%88%92%E6%99%B4%E9%81%93%E6%AD%89%E6%BE%84%E6%B8%85&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "媒体：莫让冲突切片消解内容本意",
-          "url": "https://www.toutiao.com/trending/7698746379619303478/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
@@ -151,78 +201,22 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367953&amp;topic_name=%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85",
           "source": "贴吧",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "原来手机也有这么多病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367942&amp;topic_name=%E5%8E%9F%E6%9D%A5%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大爷 大妈 老人 小孩 男孩 女孩 外卖员 快递员 保安 摊主 游客",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谭乔回应二仙桥大爷又被拦下",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E4%B9%94%E5%9B%9E%E5%BA%94%E4%BA%8C%E4%BB%99%E6%A1%A5%E5%A4%A7%E7%88%B7%E5%8F%88%E8%A2%AB%E6%8B%A6%E4%B8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "两游客误闯法国暴乱,淡定拖箱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367920&amp;topic_name=%E4%B8%A4%E6%B8%B8%E5%AE%A2%E8%AF%AF%E9%97%AF%E6%B3%95%E5%9B%BD%E6%9A%B4%E4%B9%B1%2C%E6%B7%A1%E5%AE%9A%E6%8B%96%E7%AE%B1",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暖心 善意 帮助 救助 陪伴 流浪 收留 归还 守护 泪目",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
-          "url": "https://www.zhihu.com/question/2096327185309160809",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "OpenAI：今年夏天，我们邀请了METR和Redwood Research对我们的内部监控系统进行为期三周的深入访问，试点开展了一次嵌入式评估。他们的评估结果帮助我们在系统扩展过程中加强了安全防护，并将为未来与METR及其他第三方评估机构的研究合作奠定基础。",
-          "url": "https://flash.jin10.com/detail/20261022235907189800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
@@ -235,28 +229,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367928&amp;topic_name=%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%BD%A2%E6%80%81%2C%E6%B1%82%E9%94%90%E8%AF%84",
           "source": "贴吧",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
     {
-      "keyword_group": "现场 闯入 跑进 冲进 误入 失控 翻车 偶遇",
+      "keyword_group": "离谱 奇葩 挑战 实验 亲测 沉浸式",
       "match_count": 1,
       "titles": [
         {
-          "title": "战力崩叙事乱,边缘行者2翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367871&amp;topic_name=%E6%88%98%E5%8A%9B%E5%B4%A9%E5%8F%99%E4%BA%8B%E4%B9%B1%2C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
+          "title": "LPL出征前的默契挑战",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     }
@@ -276,69 +270,66 @@
       "判断是否已有大量同角度解说，并寻找自己的叙事切口"
     ],
     "summary": {
-      "total_scanned": 305,
+      "total_scanned": 310,
       "worth_doing": 1,
-      "reserve": 35,
-      "not_recommended": 269
+      "reserve": 44,
+      "not_recommended": 265
     },
     "worth_doing": [
       {
-        "title": "谭乔回应二仙桥大爷又被拦下",
-        "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E4%B9%94%E5%9B%9E%E5%BA%94%E4%BA%8C%E4%BB%99%E6%A1%A5%E5%A4%A7%E7%88%B7%E5%8F%88%E8%A2%AB%E6%8B%A6%E4%B8%8B",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
-        "score": 10,
+        "title": "抖音博主教你vibe知识大赏",
+        "url": "https://www.douyin.com/hot/2707951",
+        "source_id": "douyin",
+        "source": "抖音",
+        "score": 9,
         "recommendation": "值得做",
         "tier": "worth_doing",
         "matched_dimensions": [
-          "具体人物与小人物",
-          "冲突与站队空间"
+          "抽象整活"
         ],
         "reasons": [
-          "具体人物与小人物 +2（命中：大爷）",
-          "冲突与站队空间 +3（命中：回应）",
-          "多个叙事维度同时成立 +2",
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 14 名 +1"
+          "抽象整活 +3（命中：大赏）",
+          "抖音素材源 +3",
+          "榜单最高第 5 名 +2",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 14,
-          "appearance_count": 1,
+          "best_rank": 5,
+          "appearance_count": 2,
           "is_new": false
         },
-        "link_type": "source_page",
+        "link_type": "hot_topic_page",
         "requires_original_video_review": true,
         "also_seen_on": []
       }
     ],
     "reserve": [
       {
-        "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
-        "url": "https://www.zhihu.com/question/2096553146264674983",
-        "source_id": "zhihu",
-        "source": "知乎",
+        "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
+        "url": "https://m.thepaper.cn/newsDetail_forward_34308703",
+        "source_id": "thepaper",
+        "source": "澎湃新闻",
         "score": 9,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [
-          "家庭关系与人情",
-          "冲突与站队空间"
+          "离谱实验与挑战",
+          "奇葩现场与意外过程"
         ],
         "reasons": [
-          "家庭关系与人情 +2（命中：父亲、父母、儿子）",
-          "冲突与站队空间 +3（命中：被拒、处罚）",
+          "离谱实验与挑战 +3（命中：体验）",
+          "奇葩现场与意外过程 +3（命中：现场）",
           "多个叙事维度同时成立 +2",
-          "知乎素材源 +1",
-          "榜单最高第 10 名 +1",
+          "当日持续出现 2 次 +1",
           "该来源更适合作为线索，需先找到可核验的原始视频"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 10,
-          "appearance_count": 1,
+          "best_rank": 19,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -346,93 +337,11 @@
         "also_seen_on": []
       },
       {
-        "title": "KDA神之八秒挑战",
-        "url": "https://www.douyin.com/hot/2707150",
+        "title": "西藏7.0级地震已致16死54伤",
+        "url": "https://www.douyin.com/hot/2709032",
         "source_id": "douyin",
         "source": "抖音",
         "score": 7,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "离谱实验与挑战"
-        ],
-        "reasons": [
-          "离谱实验与挑战 +3（命中：挑战）",
-          "抖音素材源 +3",
-          "榜单最高第 15 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 15,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "OpenAI：今年夏天，我们邀请了METR和Redwood Research对我们的内部监控系统进行为期三周的深入访问，试点开展了一次嵌入式评估。他们的评估结果帮助我们在系统扩展过程中加强了安全防护，并将为未来与METR及其他第三方评估机构的研究合作奠定基础。",
-        "url": "https://flash.jin10.com/detail/20261022235907189800",
-        "source_id": "jin10",
-        "source": "金十数据",
-        "score": 7,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "小事见人性",
-          "具象画面与细节"
-        ],
-        "reasons": [
-          "小事见人性 +3（命中：帮助）",
-          "具象画面与细节 +2（命中：监控）",
-          "多个叙事维度同时成立 +2"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 17,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
-        "url": "https://www.zhihu.com/question/2096228188099540232",
-        "source_id": "zhihu",
-        "source": "知乎",
-        "score": 6,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "离谱实验与挑战"
-        ],
-        "reasons": [
-          "离谱实验与挑战 +3（命中：实验）",
-          "知乎素材源 +1",
-          "榜单最高第 1 名 +2"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 1,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "西藏那曲发生7级地震",
-        "url": "https://www.douyin.com/hot/2709008",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 6,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [],
@@ -440,27 +349,54 @@
           "含可核验的数字细节 +1",
           "抖音素材源 +3",
           "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
           "best_rank": 1,
-          "appearance_count": 1,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "hot_topic_page",
         "requires_original_video_review": true,
-        "also_seen_on": [
-          "bilibili 热搜"
-        ]
+        "also_seen_on": []
+      },
+      {
+        "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
+        "url": "https://www.zhihu.com/question/2095926994475168071",
+        "source_id": "zhihu",
+        "source": "知乎",
+        "score": 7,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "反差与反常识"
+        ],
+        "reasons": [
+          "反差与反常识 +3（命中：却）",
+          "知乎素材源 +1",
+          "榜单最高第 5 名 +2",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 5,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
       },
       {
         "title": "LPL出征前的默契挑战",
         "url": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98",
         "source_id": "bilibili-hot-search",
         "source": "bilibili 热搜",
-        "score": 6,
+        "score": 7,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [
@@ -469,13 +405,14 @@
         "reasons": [
           "离谱实验与挑战 +3（命中：挑战）",
           "bilibili 热搜素材源 +2",
-          "榜单最高第 6 名 +1"
+          "榜单最高第 11 名 +1",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 6,
-          "appearance_count": 1,
+          "best_rank": 11,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -483,84 +420,31 @@
         "also_seen_on": []
       },
       {
-        "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
-        "url": "https://www.zhihu.com/question/2096555342171563789",
+        "title": "《offer 8》嘉宾称「专博期间不上临床」被质疑，福医大称其已完成 18 个月临床轮转，如何看待此事？",
+        "url": "https://www.zhihu.com/question/2096280893752960397",
         "source_id": "zhihu",
         "source": "知乎",
-        "score": 6,
+        "score": 7,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [
-          "离谱实验与挑战"
+          "冲突与站队空间"
         ],
         "reasons": [
-          "离谱实验与挑战 +3（命中：测评）",
+          "冲突与站队空间 +3（命中：质疑）",
           "含可核验的数字细节 +1",
           "知乎素材源 +1",
-          "榜单最高第 8 名 +1"
+          "榜单最高第 15 名 +1",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 8,
-          "appearance_count": 1,
+          "best_rank": 15,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
-        "url": "https://www.zhihu.com/question/2096327185309160809",
-        "source_id": "zhihu",
-        "source": "知乎",
-        "score": 6,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "小事见人性"
-        ],
-        "reasons": [
-          "小事见人性 +3（命中：守护）",
-          "含可核验的数字细节 +1",
-          "知乎素材源 +1",
-          "榜单最高第 14 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 14,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "小城良方病人没钱不愿意治病",
-        "url": "https://www.douyin.com/hot/2707198",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 6,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "极端规模与空间反差"
-        ],
-        "reasons": [
-          "极端规模与空间反差 +3（命中：小城）",
-          "抖音素材源 +3"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 18,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
         "requires_original_video_review": true,
         "also_seen_on": []
       },
@@ -569,7 +453,7 @@
         "url": "https://www.douyin.com/hot/2707796",
         "source_id": "douyin",
         "source": "抖音",
-        "score": 6,
+        "score": 7,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [
@@ -577,13 +461,14 @@
         ],
         "reasons": [
           "极端规模与空间反差 +3（命中：小城）",
-          "抖音素材源 +3"
+          "抖音素材源 +3",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 22,
-          "appearance_count": 1,
+          "best_rank": 24,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "hot_topic_page",
@@ -595,7 +480,7 @@
         "url": "https://www.douyin.com/hot/2707811",
         "source_id": "douyin",
         "source": "抖音",
-        "score": 6,
+        "score": 7,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [
@@ -603,13 +488,14 @@
         ],
         "reasons": [
           "离谱实验与挑战 +3（命中：测试）",
-          "抖音素材源 +3"
+          "抖音素材源 +3",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
         "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 27,
-          "appearance_count": 1,
+          "best_rank": 29,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "hot_topic_page",
@@ -617,63 +503,11 @@
         "also_seen_on": []
       },
       {
-        "title": "愿平安!西藏那曲发生7级地震",
-        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367956&amp;topic_name=%E6%84%BF%E5%B9%B3%E5%AE%89%21%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%8F%91%E7%94%9F7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-        "source_id": "tieba",
-        "source": "贴吧",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "含可核验的数字细节 +1",
-          "贴吧素材源 +1",
-          "榜单最高第 1 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 1,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "西藏7级地震",
-        "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
-        "source_id": "weibo",
-        "source": "微博",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "含可核验的数字细节 +1",
-          "微博素材源 +1",
-          "榜单最高第 1 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 1,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "长征胜利90周年电视文艺晚会",
-        "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E7%94%B5%E8%A7%86%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A",
+        "title": "西藏地震已致16死54伤",
+        "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4",
         "source_id": "bilibili-hot-search",
         "source": "bilibili 热搜",
-        "score": 5,
+        "score": 6,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [],
@@ -681,13 +515,286 @@
           "含可核验的数字细节 +1",
           "bilibili 热搜素材源 +2",
           "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
           "best_rank": 1,
-          "appearance_count": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "76人逆转骑士取两连胜",
+        "url": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E9%80%86%E8%BD%AC%E9%AA%91%E5%A3%AB%E5%8F%96%E4%B8%A4%E8%BF%9E%E8%83%9C",
+        "source_id": "bilibili-hot-search",
+        "source": "bilibili 热搜",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "bilibili 热搜素材源 +2",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 2,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "国乒男团亚锦赛四连冠",
+        "url": "https://www.douyin.com/hot/2708708",
+        "source_id": "douyin",
+        "source": "抖音",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "抖音素材源 +3",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 2,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "hot_topic_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "救援官兵连夜赶赴那曲地震灾区",
+        "url": "https://www.douyin.com/hot/2709287",
+        "source_id": "douyin",
+        "source": "抖音",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "抖音素材源 +3",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 3,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "hot_topic_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "高校发倡议规范使用得体庄重的「老师」称谓，严禁学生称辅导员为「哥、姐」，你怎么看？",
+        "url": "https://www.zhihu.com/question/2096519816542736864",
+        "source_id": "zhihu",
+        "source": "知乎",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "具体人物与小人物"
+        ],
+        "reasons": [
+          "具体人物与小人物 +2（命中：学生）",
+          "知乎素材源 +1",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 3,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "欧盟“外长”声称不要让俄中主导北极航线，外交部回应",
+        "url": "https://news.ifeng.com/c/8xQnPFm9g1W",
+        "source_id": "ifeng",
+        "source": "凤凰网",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "冲突与站队空间"
+        ],
+        "reasons": [
+          "冲突与站队空间 +3（命中：回应）",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 4,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "Meta被判250亿美元罚款",
+        "url": "https://search.bilibili.com/all?keyword=Meta%E8%A2%AB%E5%88%A4250%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+        "source_id": "bilibili-hot-search",
+        "source": "bilibili 热搜",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "bilibili 热搜素材源 +2",
+          "榜单最高第 5 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 5,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "史上最贵iPhone今天发售",
+        "url": "https://www.toutiao.com/trending/7699669736619294758/",
+        "source_id": "toutiao",
+        "source": "今日头条",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "消费与设施反差"
+        ],
+        "reasons": [
+          "消费与设施反差 +3（命中：最贵）",
+          "榜单最高第 5 名 +2",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 5,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "原来还有这么可爱的表情包",
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367953&amp;topic_name=%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85",
+        "source_id": "tieba",
+        "source": "贴吧",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "反差与反常识"
+        ],
+        "reasons": [
+          "反差与反常识 +3（命中：原来）",
+          "贴吧素材源 +1",
+          "榜单最高第 9 名 +1",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 9,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？",
+        "url": "https://www.zhihu.com/question/2096731185820819857",
+        "source_id": "zhihu",
+        "source": "知乎",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "极端规模与空间反差"
+        ],
+        "reasons": [
+          "极端规模与空间反差 +3（命中：万人）",
+          "知乎素材源 +1",
+          "榜单最高第 11 名 +1",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 11,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "战力崩叙事乱,边缘行者2翻车",
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367871&amp;topic_name=%E6%88%98%E5%8A%9B%E5%B4%A9%E5%8F%99%E4%BA%8B%E4%B9%B1%2C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E7%BF%BB%E8%BD%A6",
+        "source_id": "tieba",
+        "source": "贴吧",
+        "score": 6,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [
+          "奇葩现场与意外过程"
+        ],
+        "reasons": [
+          "奇葩现场与意外过程 +3（命中：翻车）",
+          "含可核验的数字细节 +1",
+          "贴吧素材源 +1",
+          "当日持续出现 2 次 +1"
+        ],
+        "penalties": [],
+        "originality_potential": "中等（仍需寻找独特切口）",
+        "evidence": {
+          "best_rank": 23,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -705,14 +812,15 @@
         "matched_dimensions": [],
         "reasons": [
           "贴吧素材源 +1",
-          "榜单最高第 2 名 +2",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 2,
-          "appearance_count": 1,
+          "best_rank": 1,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -720,110 +828,8 @@
         "also_seen_on": []
       },
       {
-        "title": "中国女团2-3日本女团",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "含可核验的数字细节 +1",
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 2 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 2,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "乡村里的拼豆店也有存在的意义",
-        "url": "https://www.douyin.com/hot/2705591",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 2 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 2,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "国乒女团2比3日本女团",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2%23&t=31&band_rank=2&Refer=top",
-        "source_id": "weibo",
-        "source": "微博",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "含可核验的数字细节 +1",
-          "微博素材源 +1",
-          "榜单最高第 2 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 2,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "全国秋粮大面积收获进行时",
-        "url": "https://www.douyin.com/hot/2708838",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 3 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 3,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "向着胜利再出发",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E7%9D%80%E8%83%9C%E5%88%A9%E5%86%8D%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+        "title": "VOGUE明星出图",
+        "url": "https://s.weibo.com/weibo?q=%23VOGUE%E6%98%8E%E6%98%9F%E5%87%BA%E5%9B%BE%23&t=31&band_rank=1&Refer=top",
         "source_id": "weibo",
         "source": "微博",
         "score": 5,
@@ -832,14 +838,15 @@
         "matched_dimensions": [],
         "reasons": [
           "微博素材源 +1",
-          "榜单最高第 3 名 +2",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 3,
-          "appearance_count": 1,
+          "best_rank": 1,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -857,14 +864,15 @@
         "matched_dimensions": [],
         "reasons": [
           "贴吧素材源 +1",
-          "榜单最高第 3 名 +2",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 3,
-          "appearance_count": 1,
+          "best_rank": 2,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -872,49 +880,26 @@
         "also_seen_on": []
       },
       {
-        "title": "台风“蔷琵”或转向北上",
-        "url": "https://www.douyin.com/hot/2707617",
-        "source_id": "douyin",
-        "source": "抖音",
+        "title": "西藏7级地震",
+        "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=2&Refer=top",
+        "source_id": "weibo",
+        "source": "微博",
         "score": 5,
         "recommendation": "可备选",
         "tier": "reserve",
         "matched_dimensions": [],
         "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 4 名 +2",
+          "含可核验的数字细节 +1",
+          "微博素材源 +1",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 4,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "吧友在线答疑,装机配置不踩坑",
-        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367935&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91%2C%E8%A3%85%E6%9C%BA%E9%85%8D%E7%BD%AE%E4%B8%8D%E8%B8%A9%E5%9D%91",
-        "source_id": "tieba",
-        "source": "贴吧",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "贴吧素材源 +1",
-          "榜单最高第 4 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 4,
-          "appearance_count": 1,
+          "best_rank": 2,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -922,59 +907,8 @@
         "also_seen_on": []
       },
       {
-        "title": "欧盟“外长”声称不要让俄中主导北极航线，外交部回应",
-        "url": "https://news.ifeng.com/c/8xQnPFm9g1W",
-        "source_id": "ifeng",
-        "source": "凤凰网",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [
-          "冲突与站队空间"
-        ],
-        "reasons": [
-          "冲突与站队空间 +3（命中：回应）",
-          "榜单最高第 4 名 +2"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 4,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "英伟达RTX显卡涨幅扩大",
-        "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX%E6%98%BE%E5%8D%A1%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 4 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 4,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "赵丽颖霍建华 剧播不好别怪妆造",
-        "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%9C%8D%E5%BB%BA%E5%8D%8E%20%E5%89%A7%E6%92%AD%E4%B8%8D%E5%A5%BD%E5%88%AB%E6%80%AA%E5%A6%86%E9%80%A0&t=31&band_rank=4&Refer=top",
+        "title": "多方救援力量赶往震中",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E8%B5%B6%E5%BE%80%E9%9C%87%E4%B8%AD%23&t=31&band_rank=3&Refer=top",
         "source_id": "weibo",
         "source": "微博",
         "score": 5,
@@ -983,14 +917,15 @@
         "matched_dimensions": [],
         "reasons": [
           "微博素材源 +1",
-          "榜单最高第 4 名 +2",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 4,
-          "appearance_count": 1,
+          "best_rank": 3,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -998,8 +933,34 @@
         "also_seen_on": []
       },
       {
-        "title": "NOVA战胜AQ VCT晋升赛",
-        "url": "https://search.bilibili.com/all?keyword=NOVA%20AQ",
+        "title": "曝DeepSeek完成千亿融资",
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+        "source_id": "tieba",
+        "source": "贴吧",
+        "score": 5,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "贴吧素材源 +1",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 3,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "程序员解读AI挖出PHP安全漏洞",
+        "url": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A7%A3%E8%AF%BBAI%E6%8C%96%E5%87%BAPHP%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E",
         "source_id": "bilibili-hot-search",
         "source": "bilibili 热搜",
         "score": 5,
@@ -1008,17 +969,15 @@
         "matched_dimensions": [],
         "reasons": [
           "bilibili 热搜素材源 +2",
-          "榜单最高第 5 名 +2",
-          "单纯赛果 -2（命中：战胜）",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
-        "penalties": [
-          "单纯赛果"
-        ],
+        "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 5,
-          "appearance_count": 1,
+          "best_rank": 3,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -1026,8 +985,91 @@
         "also_seen_on": []
       },
       {
-        "title": "亚锦赛决赛国乒男团vs韩国",
-        "url": "https://www.douyin.com/hot/2708708",
+        "title": "A股跌破3600点",
+        "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%8C%E7%A0%B43600%E7%82%B9&t=31&band_rank=4&Refer=top",
+        "source_id": "weibo",
+        "source": "微博",
+        "score": 5,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "微博素材源 +1",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 4,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "OpenAI开放Decisions API",
+        "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%BC%80%E6%94%BEDecisionsAPI",
+        "source_id": "bilibili-hot-search",
+        "source": "bilibili 热搜",
+        "score": 5,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "bilibili 热搜素材源 +2",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 4,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "中国体操女团时隔20年夺冠",
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367963&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%A4%BA%E5%86%A0",
+        "source_id": "tieba",
+        "source": "贴吧",
+        "score": 5,
+        "recommendation": "可备选",
+        "tier": "reserve",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "贴吧素材源 +1",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1",
+          "单纯赛果 -2（命中：夺冠）",
+          "热度很高但标题信息不足，保留为人工复核候选"
+        ],
+        "penalties": [
+          "单纯赛果"
+        ],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 4,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "亚锦赛国乒女团决赛不敌日本",
+        "url": "https://www.douyin.com/hot/2708670",
         "source_id": "douyin",
         "source": "抖音",
         "score": 5,
@@ -1036,7 +1078,8 @@
         "matched_dimensions": [],
         "reasons": [
           "抖音素材源 +3",
-          "榜单最高第 5 名 +2",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1",
           "单纯赛果 -2（命中：决赛）",
           "热度很高但标题信息不足，保留为人工复核候选"
         ],
@@ -1045,8 +1088,8 @@
         ],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 5,
-          "appearance_count": 1,
+          "best_rank": 4,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "hot_topic_page",
@@ -1054,49 +1097,26 @@
         "also_seen_on": []
       },
       {
-        "title": "后会友期 想请不敢请的都放观察室了",
-        "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E6%83%B3%E8%AF%B7%E4%B8%8D%E6%95%A2%E8%AF%B7%E7%9A%84%E9%83%BD%E6%94%BE%E8%A7%82%E5%AF%9F%E5%AE%A4%E4%BA%86&t=31&band_rank=5&Refer=top",
-        "source_id": "weibo",
-        "source": "微博",
+        "title": "实拍西藏地震：镜头剧烈摇晃",
+        "url": "https://www.toutiao.com/trending/7699575115192765993/",
+        "source_id": "toutiao",
+        "source": "今日头条",
         "score": 5,
         "recommendation": "可备选",
         "tier": "reserve",
-        "matched_dimensions": [],
+        "matched_dimensions": [
+          "具象画面与细节"
+        ],
         "reasons": [
-          "微博素材源 +1",
-          "榜单最高第 5 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
+          "具象画面与细节 +2（命中：镜头、实拍）",
+          "榜单最高第 4 名 +2",
+          "当日持续出现 2 次 +1"
         ],
         "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
+        "originality_potential": "中等（仍需寻找独特切口）",
         "evidence": {
-          "best_rank": 5,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "吧主出征!为吧宠级表情包站台",
-        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367857&amp;topic_name=%E5%90%A7%E4%B8%BB%E5%87%BA%E5%BE%81%21%E4%B8%BA%E5%90%A7%E5%AE%A0%E7%BA%A7%E8%A1%A8%E6%83%85%E5%8C%85%E7%AB%99%E5%8F%B0",
-        "source_id": "tieba",
-        "source": "贴吧",
-        "score": 5,
-        "recommendation": "可备选",
-        "tier": "reserve",
-        "matched_dimensions": [],
-        "reasons": [
-          "贴吧素材源 +1",
-          "榜单最高第 5 名 +2",
-          "热度很高但标题信息不足，保留为人工复核候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 5,
-          "appearance_count": 1,
+          "best_rank": 4,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -1106,8 +1126,60 @@
     ],
     "not_recommended": [
       {
-        "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
-        "url": "https://www.zhihu.com/question/2096547342124172821",
+        "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+        "url": "https://wallstreetcn.com/articles/3784189",
+        "source_id": "wallstreetcn-hot",
+        "source": "华尔街见闻",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+        "url": "https://www.cls.cn/detail/2512907",
+        "source_id": "cls-hot",
+        "source": "财联社热门",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+        "url": "https://www.zhihu.com/question/2096358861804511510",
         "source_id": "zhihu",
         "source": "知乎",
         "score": 4,
@@ -1117,14 +1189,15 @@
         "reasons": [
           "含可核验的数字细节 +1",
           "知乎素材源 +1",
-          "榜单最高第 2 名 +2",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
           "热度和标题信息都不足，暂不进入候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 2,
-          "appearance_count": 1,
+          "best_rank": 1,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -1132,7 +1205,163 @@
         "also_seen_on": []
       },
       {
-        "title": "西藏那曲市巴青县发生 7.0 级地震，当地目前具体情况如何？你那边有震感吗？",
+        "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
+        "url": "https://m.thepaper.cn/newsDetail_forward_34307574",
+        "source_id": "thepaper",
+        "source": "澎湃新闻",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "习近平对西藏7.0级地震作出重要指示",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA",
+        "source_id": "baidu",
+        "source": "百度热搜",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "西藏7.0级强震已致16死54伤",
+        "url": "https://www.toutiao.com/trending/7699628400520121906/",
+        "source_id": "toutiao",
+        "source": "今日头条",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "中国地震台网正式测定：10月23日11时13分在西藏那曲市巴青县（北纬32.43度，东经93.89度）发生3.3级地震，震源深度10千米。",
+        "url": "https://flash.jin10.com/detail/20261023111739540800",
+        "source_id": "jin10",
+        "source": "金十数据",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "本轮新出现 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 1,
+          "is_new": true
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "瑞银资产管理表示，从较长远的投资视野来看，美债正展现吸引力，10年期美债收益率在未来12个月内料将走低；认真考虑分批进场布局美债。",
+        "url": "https://wallstreetcn.com/livenews/3184134",
+        "source_id": "wallstreetcn-quick",
+        "source": "华尔街见闻-快讯",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 1 名 +2",
+          "本轮新出现 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 1,
+          "appearance_count": 1,
+          "is_new": true
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "港股152家上市申请失效，这是IPO市场降温信号？",
+        "url": "https://www.cls.cn/detail/2512669",
+        "source_id": "cls-hot",
+        "source": "财联社热门",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 2,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "西藏巴青县 7.0 级地震已致 16 死 65 伤，为今年以来中国最大地震，当地目前情况如何？你那边有震感吗？",
         "url": "https://www.zhihu.com/question/2096734873637445705",
         "source_id": "zhihu",
         "source": "知乎",
@@ -1143,14 +1372,15 @@
         "reasons": [
           "含可核验的数字细节 +1",
           "知乎素材源 +1",
-          "榜单最高第 5 名 +2",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
           "热度和标题信息都不足，暂不进入候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 5,
-          "appearance_count": 1,
+          "best_rank": 2,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -1158,50 +1388,25 @@
         "also_seen_on": []
       },
       {
-        "title": "台风蔷琵实时路径",
-        "url": "https://www.douyin.com/hot/2708373",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 6 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 6,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "DeepSeek完成1000亿融资",
-        "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
+        "title": "西藏那曲地震已致16死54伤",
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4",
+        "source_id": "baidu",
+        "source": "百度热搜",
         "score": 4,
         "recommendation": "暂不建议",
         "tier": "not_recommended",
         "matched_dimensions": [],
         "reasons": [
           "含可核验的数字细节 +1",
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 7 名 +1",
+          "榜单最高第 2 名 +2",
+          "当日持续出现 2 次 +1",
           "热度和标题信息都不足，暂不进入候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 7,
-          "appearance_count": 1,
+          "best_rank": 2,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
@@ -1209,284 +1414,103 @@
         "also_seen_on": []
       },
       {
-        "title": "大火逼近中国 日本道歉岂能只道一半",
-        "url": "https://www.toutiao.com/trending/7698626535502364698/",
-        "source_id": "toutiao",
-        "source": "今日头条",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [
-          "冲突与站队空间"
-        ],
-        "reasons": [
-          "冲突与站队空间 +3（命中：道歉）",
-          "榜单最高第 7 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 7,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": [
-          "百度热搜"
-        ]
-      },
-      {
-        "title": "S16应援曲 以风之名",
-        "url": "https://search.bilibili.com/all?keyword=S16%E5%BA%94%E6%8F%B4%E6%9B%B2%20%E4%BB%A5%E9%A3%8E%E4%B9%8B%E5%90%8D",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
+        "title": "隔夜SHIBOR报1.2710%，上涨0.98个基点。 7天SHIBOR报1.3260%，上涨0.50个基点。 3个月SHIBOR报1.4078%，下降0.03个基点。",
+        "url": "https://wallstreetcn.com/livenews/3184132",
+        "source_id": "wallstreetcn-quick",
+        "source": "华尔街见闻-快讯",
         "score": 4,
         "recommendation": "暂不建议",
         "tier": "not_recommended",
         "matched_dimensions": [],
         "reasons": [
           "含可核验的数字细节 +1",
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 8 名 +1",
+          "榜单最高第 2 名 +2",
+          "本轮新出现 +1",
           "热度和标题信息都不足，暂不进入候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 8,
+          "best_rank": 2,
           "appearance_count": 1,
-          "is_new": false
+          "is_new": true
         },
         "link_type": "source_page",
         "requires_original_video_review": true,
         "also_seen_on": []
       },
       {
-        "title": "黄海南部进行实弹射击意味着什么",
-        "url": "https://www.douyin.com/hot/2707396",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 8 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 8,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "人民日报评老师被家长无理举报",
-        "url": "https://www.douyin.com/hot/2708503",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 9 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 9,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗？",
-        "url": "https://www.zhihu.com/question/694420968",
-        "source_id": "zhihu",
-        "source": "知乎",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [
-          "家庭关系与人情"
-        ],
-        "reasons": [
-          "家庭关系与人情 +2（命中：孩子）",
-          "知乎素材源 +1",
-          "榜单最高第 9 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 9,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "人民日报评医学生盲猜病情",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9B%B2%E7%8C%9C%E7%97%85%E6%83%85%23&t=31&band_rank=10&Refer=top",
-        "source_id": "weibo",
-        "source": "微博",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [
-          "具体人物与小人物"
-        ],
-        "reasons": [
-          "具体人物与小人物 +2（命中：学生）",
-          "微博素材源 +1",
-          "榜单最高第 10 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 10,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "俄称日美军演威胁亚太稳定安全",
-        "url": "https://www.douyin.com/hot/2707393",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 10 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 10,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "媒体评樊振东发文怒斥偷拍",
-        "url": "https://www.douyin.com/hot/2707823",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 11 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 11,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "上海浙江福建等地有大到暴雨",
-        "url": "https://www.douyin.com/hot/2707429",
-        "source_id": "douyin",
-        "source": "抖音",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [],
-        "reasons": [
-          "抖音素材源 +3",
-          "榜单最高第 12 名 +1",
-          "热度和标题信息都不足，暂不进入候选"
-        ],
-        "penalties": [],
-        "originality_potential": "较低（标题信息不足）",
-        "evidence": {
-          "best_rank": 12,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "hot_topic_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调",
-        "url": "https://m.thepaper.cn/newsDetail_forward_34305443",
-        "source_id": "thepaper",
-        "source": "澎湃新闻",
-        "score": 4,
-        "recommendation": "暂不建议",
-        "tier": "not_recommended",
-        "matched_dimensions": [
-          "冲突与站队空间"
-        ],
-        "reasons": [
-          "冲突与站队空间 +3（命中：回应）",
-          "榜单最高第 12 名 +1"
-        ],
-        "penalties": [],
-        "originality_potential": "中等（仍需寻找独特切口）",
-        "evidence": {
-          "best_rank": 12,
-          "appearance_count": 1,
-          "is_new": false
-        },
-        "link_type": "source_page",
-        "requires_original_video_review": true,
-        "also_seen_on": []
-      },
-      {
-        "title": "爱德华兹揭幕战45分比肩乔丹张伯伦",
-        "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B9%E6%8F%AD%E5%B9%95%E6%88%9845%E5%88%86%E6%AF%94%E8%82%A9%E4%B9%94%E4%B8%B9",
-        "source_id": "bilibili-hot-search",
-        "source": "bilibili 热搜",
+        "title": "“泽连斯基愿在控制75%国土上达成和平协议？逻辑上难以成立”",
+        "url": "https://original.ifeng.com/c/8xQnD2ULq0u",
+        "source_id": "ifeng",
+        "source": "凤凰网",
         "score": 4,
         "recommendation": "暂不建议",
         "tier": "not_recommended",
         "matched_dimensions": [],
         "reasons": [
           "含可核验的数字细节 +1",
-          "bilibili 热搜素材源 +2",
-          "榜单最高第 12 名 +1",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
           "热度和标题信息都不足，暂不进入候选"
         ],
         "penalties": [],
         "originality_potential": "较低（标题信息不足）",
         "evidence": {
-          "best_rank": 12,
-          "appearance_count": 1,
+          "best_rank": 3,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "华尔街见闻早餐FM-Radio | 2026年10月23日",
+        "url": "https://wallstreetcn.com/articles/3784261",
+        "source_id": "wallstreetcn-hot",
+        "source": "华尔街见闻",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 3,
+          "appearance_count": 2,
+          "is_new": false
+        },
+        "link_type": "source_page",
+        "requires_original_video_review": true,
+        "also_seen_on": []
+      },
+      {
+        "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+        "url": "https://www.cls.cn/detail/2512879",
+        "source_id": "cls-hot",
+        "source": "财联社热门",
+        "score": 4,
+        "recommendation": "暂不建议",
+        "tier": "not_recommended",
+        "matched_dimensions": [],
+        "reasons": [
+          "含可核验的数字细节 +1",
+          "榜单最高第 3 名 +2",
+          "当日持续出现 2 次 +1",
+          "热度和标题信息都不足，暂不进入候选"
+        ],
+        "penalties": [],
+        "originality_potential": "较低（标题信息不足）",
+        "evidence": {
+          "best_rank": 3,
+          "appearance_count": 2,
           "is_new": false
         },
         "link_type": "source_page",
